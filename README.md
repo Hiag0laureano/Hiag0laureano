@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" />
+<img src="[https://chatgpt.com/backend-api/estuary/content?id=file_0000000056bc820e98165aeee894829f&ts=495781&p=fs&cid=1&sig=ebea1c24397d022004eedac8e3229ef41bc3c743d01f723d5cf2e49a99c7b6ef&v=0" />
 
 # Hiago Laureano
 
