@@ -202,20 +202,19 @@
 
   <!-- ===== HEADLINE ===== -->
   <g font-family="Arial, Helvetica, sans-serif" font-weight="900">
-    <rect x="45" y="62" width="7" height="34" fill="#22d3ee" filter="url(#strongGlow)"/>
-    <text x="64" y="90" fill="#f5f8ff" font-size="30" letter-spacing="1">CONECTE-SE E CRESÇA PROFISSIONALMENTE</text>
+    <rect x="45" y="68" width="7" height="42" fill="#22d3ee" filter="url(#strongGlow)"/>
+    <text x="64" y="102" fill="#f5f8ff" font-size="36" letter-spacing="0.5">Conecte-se comigo no
+      <tspan fill="url(#linkedinGlow)" filter="url(#textGlowBlue)">LinkedIn</tspan>
+    </text>
   </g>
 
   <!-- ===== SUBTEXT ===== -->
   <g font-family="Arial, Helvetica, sans-serif" font-size="15">
-    <text x="52" y="128" fill="#cbd5e1">Conecte-se comigo no
-      <tspan fill="url(#linkedinGlow)" font-weight="bold" filter="url(#textGlowBlue)">LinkedIn</tspan>.
-    </text>
-    <text x="52" y="150" fill="#94a3b8">Acredito que grandes oportunidades começam com uma simples conversa.</text>
+    <text x="52" y="132" fill="#94a3b8">Acredito que grandes oportunidades começam com uma simples conversa.</text>
   </g>
 
   <!-- ===== BUTTON ===== -->
-  <g transform="translate(52,170)">
+  <g transform="translate(52,158)">
     <rect x="0" y="0" width="230" height="38" rx="9" fill="url(#btnGrad)" filter="url(#softGlow)"/>
     <rect x="0" y="0" width="230" height="38" rx="9" fill="none" stroke="#93c5fd" stroke-opacity="0.5" stroke-width="1"/>
     <!-- official-style LinkedIn glyph -->
