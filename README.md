@@ -88,13 +88,13 @@ Sempre buscando aprender novas tecnologias e construir soluções que gerem impa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hiag0laureano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=cbd5e1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiag0laureano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiag0laureano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiag0laureano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=E2E8F0"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Hiag0laureano&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=38bdf8&currStreakLabel=38bdf8"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Hiag0laureano&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
@@ -104,16 +104,17 @@ Sempre buscando aprender novas tecnologias e construir soluções que gerem impa
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hiag0laureano&theme=tokyonight&row=1&column=7&no-bg=true&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hiag0laureano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7"/>
 
 </div>
 
 ---
+
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiag0laureano&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiag0laureano&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=8B5CF6&point=FFFFFF"/>
 
 </div>
 
@@ -123,11 +124,9 @@ Sempre buscando aprender novas tecnologias e construir soluções que gerem impa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hiag0laureano/Hiag0laureano/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img alt="Snake Animation" src="https://raw.githubusercontent.com/Hiag0laureano/Hiag0laureano/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-> ⚠️ **Importante:** para essa animação funcionar, você precisará configurar uma GitHub Action. Posso montar isso para você.
 
 ---
 
