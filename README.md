@@ -88,8 +88,6 @@ Sempre buscando aprender novas tecnologias e construir soluções que gerem impa
 
 <div align="center">
 
-<br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Hiag0laureano&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
