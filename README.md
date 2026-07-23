@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/hiago-laureano/" target="_blank">
-    <img src="./assets/linkedin-banner.svg" width="100%" alt="LinkedIn Banner"/>
+    <img src="./assets/linkedin-banner1.svg" width="100%" alt="LinkedIn Banner"/>
 </a>
 
 <br/><br/>
