@@ -3,7 +3,9 @@
 <img src="./assets/banner1.png" />
 
 <div align="center">
-  <img src="./assets/linkedin-banner (2).svg" alt="Banner" width="100%">
+  <a href="https://www.linkedin.com/in/hiago-laureano/">
+    <img src="./assets/linkedin-banner.svg" alt="Banner LinkedIn" width="100%">
+  </a>
 </div>
 
 # 
