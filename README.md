@@ -88,23 +88,7 @@ Sempre buscando aprender novas tecnologias e construir soluções que gerem impa
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiag0laureano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiag0laureano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=E2E8F0"/>
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Hiag0laureano&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hiag0laureano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7"/>
 
 </div>
 
