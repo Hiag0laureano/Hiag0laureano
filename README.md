@@ -2,7 +2,11 @@
 
 <img src="./assets/banner1.png" />
 
-# Hiago Laureano
+<div align="center">
+  <img src="./assets/linkedin-banner (2).svg" alt="Banner" width="100%">
+</div>
+
+# 
 
 ### Full Stack Developer
 
