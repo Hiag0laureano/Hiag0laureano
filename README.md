@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hiago-laureano/">
-    <img src="./assets/linkedin-banner.svg" alt="Banner LinkedIn" width="100%">
+    <img src="./assets/linkedin-banner (2).svg" alt="Banner LinkedIn" width="100%">
   </a>
 </div>
 
