@@ -2,8 +2,6 @@
 
 <img src="./assets/banner1.png" width="100%" alt="Hiago Laureano Banner"/>
 
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/hiago-laureano/" target="_blank">
     <img src="./assets/linkedin-banner1.svg" width="100%" alt="LinkedIn Banner"/>
 </a>
